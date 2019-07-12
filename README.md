@@ -9,7 +9,7 @@
 # Clone this repository
 git clone https://github.com/tbindrup/elevtron-svelte-starter.git
 
-# Go into the repository
+# Move into the project
 cd electron-svelte-starter
 
 # Install dependencies
