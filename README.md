@@ -8,10 +8,13 @@
 ```bash
 # Clone this repository
 git clone https://github.com/tbindrup/elevtron-svelte-starter.git
+
 # Go into the repository
 cd electron-svelte-starter
+
 # Install dependencies
 npm install or yarn install
+
 # Run the app
 npm start or yarn start
 ```
