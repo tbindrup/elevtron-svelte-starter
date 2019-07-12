@@ -1,6 +1,6 @@
 # Electron Svelte Starter
 
-**Clone and run for a quick way to build Electron apps with Svelte 3 and Rollup**
+**Clone and run for a quick way to build Electron apps with Svelte 3 and Rollup**  
 **Based on https://github.com/bowen31337/electron-rollup-kickstart (thank you!)**
 
 ## To Use
