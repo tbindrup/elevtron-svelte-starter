@@ -1,12 +1,13 @@
 # Electron Svelte Starter
 
 **Clone and run for a quick way to build Electron apps with Svelte 3 and Rollup**
+**Based on https://github.com/bowen31337/electron-rollup-kickstart (thank you!)**
 
 ## To Use
 
 ```bash
 # Clone this repository
-git clone https://github.com/bowen31337/electron-rollup-kickstart.git
+git clone https://github.com/tbindrup/elevtron-svelte-starter.git
 # Go into the repository
 cd electron-svelte-starter
 # Install dependencies
